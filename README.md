@@ -4,8 +4,8 @@
 - 🎯 Seeking **Security Analysis / Incident Response internship opportunities**
 - 🎓 Master of Cybersecurity (Monash University)
 - 🔐 Exploring **AI Security** and advanced attack/defense techniques
-- 💬 Ask me about my repositories or security research
-- 📫 [『 Connect on LinkedIn 』](https://www.linkedin.com/in/mike-wu-304915183/)
+- 💬 Ask me about anything related to my repositories!
+- 📫 [『 Let's reach out on LinkedIn! 』](https://www.linkedin.com/in/mike-wu-304915183/)
 
 ---
 
